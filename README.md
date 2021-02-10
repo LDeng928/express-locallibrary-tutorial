@@ -23,6 +23,7 @@ To get this project up and running locally on your computer:
    ```
    npm install
    DEBUG=express-locallibrary-tutorial:* npm run devstart   #For linux
+   SET DEBUG=express-locallibrary:* & npm start #For cmd on Windows
    ```
 1. Open a browser to http://localhost:3000/ to open the library site.
 
